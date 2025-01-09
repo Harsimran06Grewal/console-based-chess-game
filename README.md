@@ -20,12 +20,5 @@ Work Done:
       :-Knight: as knight moves in l shape means( 2 steps vertically and one step hrizontally).
       :-Pawn : as pawn moves one square forward, but on its first move, it can move two squares forward; it captures diagonally one square forward. 
 
-Day 3:
-Work Done:
-1. Check and Checkmate:
-      :-Detect if a king is in check.
-      :-Determine if the game has ended in checkmate or stalemate.
-2. Game Over Conditions:
-      :-The game ends when one player is checkmated or the game is drawn.
 
  
